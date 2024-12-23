@@ -8,8 +8,8 @@ This is a Specialization by [Coursera](https://www.coursera.org/) offered by Uni
 In this repository I have put everything that I was studying and developing during all the 4 courses of this Specialization.
 
 NOTE: This is a public repo and there is nothing wrong about it. For a new student taking this course, there is no realistic way to misuse these files in an attempt to pass the course
-without doing the work. Passing the assingments will require providing results in phases and include personalized id's. Trying to plagiarize this work will be a complete waste of time so do not
-even attempt it.
+without doing the work. Passing the assingments will require providing results in phases and include personalized id's. Trying to plagiarize this work will be a complete waste of time,
+from which you will learn absolutely nothing, so do not even attempt it.
 
 ## About the Specialization
 
