@@ -40,4 +40,9 @@ Link: [https://joonavehanen.pythonanywhere.com/](https://joonavehanen.pythonanyw
 
 ---
 
+## Lazy guides and instructions
+
+Follow the below instructions for (re-)installing the environment
+https://www.dj4e.com/assn/dj4e_install.md
+
 <p align="center"><strong>En <a href="https://www.linkedin.com/in/joona-vehanen-63536638/">Joona Vehanen</a></strong></p>
